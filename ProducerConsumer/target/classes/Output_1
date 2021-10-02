@@ -1,0 +1,29 @@
+12:42:37.156  -  STARTING  -  CONSUMERS:  5;  File:  C:\My_Data\development\messages.txt
+Invalid Message-Message [entireMessage=InvalidMessage, messageId=, sleepTime=-1, payload=, IS_PROCESSED=NO]
+Thread: Producer_Thread-1;  Producer Sleeping for 20ms
+A|1000|a-01;  Thread: Consumer_Thread-1;  Start: 12:42:37.247;  End: 12:42:38.247
+B|1000|b-01;  Thread: Consumer_Thread-2;  Start: 12:42:37.247;  End: 12:42:38.247
+C|1000|c-01;  Thread: Consumer_Thread-5;  Start: 12:42:37.247;  End: 12:42:38.247
+A|100|a-02;  Thread: Consumer_Thread-4;  Start: 12:42:38.249;  End: 12:42:38.350
+B|200|b-02;  Thread: Consumer_Thread-5;  Start: 12:42:38.250;  End: 12:42:38.451
+A|200|a-03;  Thread: Consumer_Thread-4;  Start: 12:42:38.350;  End: 12:42:38.552
+C|500|c-02;  Thread: Consumer_Thread-1;  Start: 12:42:38.250;  End: 12:42:38.751
+B|300|b-03;  Thread: Consumer_Thread-5;  Start: 12:42:38.451;  End: 12:42:38.753
+A|300|a-04;  Thread: Consumer_Thread-4;  Start: 12:42:38.553;  End: 12:42:38.853
+B|400|b-04;  Thread: Consumer_Thread-5;  Start: 12:42:38.754;  End: 12:42:39.154
+A|400|a-05;  Thread: Consumer_Thread-4;  Start: 12:42:38.853;  End: 12:42:39.254
+C|600|c-03;  Thread: Consumer_Thread-1;  Start: 12:42:38.751;  End: 12:42:39.352
+B|500|b-05;  Thread: Consumer_Thread-5;  Start: 12:42:39.154;  End: 12:42:39.656
+E|500|e-01;  Thread: Consumer_Thread-2;  Start: 12:42:39.256;  End: 12:42:39.756
+D|500|d-01;  Thread: Consumer_Thread-4;  Start: 12:42:39.256;  End: 12:42:39.756
+E|250|e-02;  Thread: Consumer_Thread-2;  Start: 12:42:39.756;  End: 12:42:40.007
+D|250|d-02;  Thread: Consumer_Thread-4;  Start: 12:42:39.756;  End: 12:42:40.007
+C|700|c-04;  Thread: Consumer_Thread-1;  Start: 12:42:39.352;  End: 12:42:40.053
+E|300|e-03;  Thread: Consumer_Thread-2;  Start: 12:42:40.007;  End: 12:42:40.308
+D|600|d-03;  Thread: Consumer_Thread-4;  Start: 12:42:40.007;  End: 12:42:40.607
+E|400|e-04;  Thread: Consumer_Thread-2;  Start: 12:42:40.308;  End: 12:42:40.708
+C|800|c-05;  Thread: Consumer_Thread-1;  Start: 12:42:40.053;  End: 12:42:40.853
+E|500|e-05;  Thread: Consumer_Thread-2;  Start: 12:42:40.708;  End: 12:42:41.209
+D|700|d-04;  Thread: Consumer_Thread-4;  Start: 12:42:40.607;  End: 12:42:41.312
+D|800|d-05;  Thread: Consumer_Thread-4;  Start: 12:42:41.312;  End: 12:42:42.115
+12:42:42.116  -  END
